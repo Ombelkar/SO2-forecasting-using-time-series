@@ -26,6 +26,8 @@ This project focuses on forecasting sulfur dioxide (SO₂) air pollution levels 
 - `app.py` – Main Streamlit application
 - `pdf_to_csv.py`, `combine.py`, `graphs.py` – Data extraction and visualization scripts
 
+- Data Source: The dataset used in this project was obtained from the official website of the Central Pollution Control Board (CPCB), India – https://cpcb.nic.in/.
+
 ## 📈 How it Works
 
 1. The user selects a state and number of months (up to 36) to forecast.
