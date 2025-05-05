@@ -21,7 +21,7 @@ This project focuses on forecasting sulfur dioxide (SO₂) air pollution levels 
 
 ## 📁 Files
 
-- `combined AQI.csv` – Raw dataset before differencing
+- `combined AQI.csv` – 2015 - 2023 combined dataset before differencing
 - `differenced_AQI.csv` – Preprocessed and differenced data
 - `app.py` – Main Streamlit application
 - `pdf_to_csv.py`, `combine.py`, `graphs.py` – Data extraction and visualization scripts
